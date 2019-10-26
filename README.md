@@ -1,1 +1,1 @@
-# gam110-creativity-cards
+# GAM110 Creativity Cards Project
